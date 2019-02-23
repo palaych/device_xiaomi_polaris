@@ -15,9 +15,6 @@ TARGET_OTA_ASSERT_DEVICE := polaris
 # Kernel
 TARGET_KERNEL_CONFIG := polaris_defconfig
 
-# NFC
-TARGET_USES_NQ_NFC := true
-
 # Partitions
 BOARD_RECOVERYIMAGE_PARTITION_SIZE := 67108864
 
