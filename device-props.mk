@@ -13,9 +13,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Display features
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.displayfeature.histogram.enable=true \
-    ro.displayfeature.effect.conflict=1 \
     ro.eyecare.brightness.threshold=15 \
     ro.eyecare.brightness.level=8 \
     ro.hist.brightness.threshold=7 \
-    ro.whitepoint_calibration_enable=false \
-    sys.autobrightness_optimize=true
+    ro.whitepoint_calibration_enable=false
