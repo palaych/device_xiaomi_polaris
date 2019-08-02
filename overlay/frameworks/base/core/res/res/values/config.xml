@@ -314,9 +314,6 @@
     <!-- Whether auto brightness works while dozing -->
     <bool name="config_allowAutoBrightnessWhileDozing">true</bool>
     <bool name="config_displayBrightnessBucketsInDoze">false</bool>
-
-    <!-- Disable AOD by default -->
-    <bool name="config_dozeAlwaysOnEnabled">false</bool>
 	
     <!-- Other brightness configs. -->
     <bool name="config_automatic_brightness_useacc">true</bool>
